@@ -19,3 +19,9 @@ int main()
     t.convert();
     return 0;
 }
+/* Output:
+
+Enter temperature in Fahrenheit: 50
+Temperature in Celsius: 10
+
+*/

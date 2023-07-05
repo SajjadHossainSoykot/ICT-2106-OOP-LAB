@@ -17,3 +17,9 @@ int main() {
   person.displayInfo();
   return 0;
 }
+/* Output:
+
+Name: John Doe
+Age: 25
+
+*/

@@ -9,5 +9,14 @@ int main()
     {
         cout<<s<<endl;
     }
-    
 }
+/* Output:
+
+5
+WELL DONE
+WELL DONE
+WELL DONE
+WELL DONE
+WELL DONE
+
+*/

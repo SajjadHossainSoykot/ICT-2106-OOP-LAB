@@ -6,3 +6,9 @@ int main()
     cin>>a>>b>>c;
     cout<<(a/b)-c<<endl;
 }
+/* Output:
+
+250 85 25
+-22.0588
+
+*/

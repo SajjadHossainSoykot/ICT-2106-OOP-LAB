@@ -8,3 +8,9 @@ int main() {
   cout << "Temperature in Celsius: " << celsius << endl;
   return 0;
 }
+/* Output:
+
+Enter temperature in Fahrenheit: 50
+Temperature in Celsius: 10
+
+*/

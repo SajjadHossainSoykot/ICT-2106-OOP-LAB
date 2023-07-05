@@ -6,3 +6,9 @@ int main()
     cin>>a>>b;
     cout<<(a+b)/2;
 }
+/* Output:
+
+5 10
+7.5
+
+*/
