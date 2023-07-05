@@ -66,3 +66,11 @@ int main() {
 
     return 0;
 }
+/* Output:
+
+Enter the value of x: 3
+(a) sin(3) = 0.14112
+(b) SUM = 1.29126
+(c) cos(3) = -0.989994
+
+*/

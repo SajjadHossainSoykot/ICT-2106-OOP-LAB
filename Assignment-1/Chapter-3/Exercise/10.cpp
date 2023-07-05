@@ -63,3 +63,16 @@ int main() {
 
     return 0;
 }
+/* Output:
+
+Enter the number of users: 2
+Enter the name of user 1: Sajjad Hossain
+Enter the number of units consumed by Sajjad Hossain: 150
+Enter the name of user 2: Hossain Soykot
+Enter the number of units consumed by Hossain Soykot: 200
+User Data and Charges
+                Name     Units   Charges
+      Sajjad Hossain       150    100.00
+      Hossain Soykot       200    140.00
+
+*/

@@ -44,3 +44,13 @@ int main() {
 
     return 0;
 }
+/* Output:
+
+Enter the number of elements: 5
+Enter the numbers:
+1 2 3 4 5
+Mean: 3
+Variance: 2
+Standard Deviation: 1.41421
+
+*/

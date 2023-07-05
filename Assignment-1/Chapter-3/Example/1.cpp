@@ -12,3 +12,8 @@ int main()
     int X = 0;                // hides class type X
     cout << X::count << endl; // use static member of class X
 }
+/* Output:
+
+10
+
+*/

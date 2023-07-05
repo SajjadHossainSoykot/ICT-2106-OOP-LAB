@@ -27,3 +27,23 @@ int main()
     cout << "Spoilt ballots: " << candidate[0] << endl;
     return 0;
 }
+/* Output:
+
+Enter the ballot for candidate (Enter Between 1-5, 0 to exit):
+Ballot: 1
+Ballot: 2
+Ballot: 2
+Ballot: 2
+Ballot: 3
+Ballot: 5
+Ballot: 0
+
+Vote Count:
+Candidate 1: 1 vote(s)
+Candidate 2: 3 vote(s)
+Candidate 3: 1 vote(s)
+Candidate 4: 0 vote(s)
+Candidate 5: 1 vote(s)
+Spoilt ballots: 0
+
+*/

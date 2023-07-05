@@ -49,3 +49,19 @@ int main()
     }
     return 0;
 }
+/* Output:
+
+Enter player's name (or 'exit' to finish): Sajjad
+Enter runs: 200
+Enter innings: 3
+Enter not out: 1
+Enter player's name (or 'exit' to finish): Soykot
+Enter runs: 150
+Enter innings: 2
+Enter not out: 0
+Enter player's name (or 'exit' to finish): exit
+    Player      Runs   Innings   Not Out   Average
+    Sajjad       200         3         1    100.00
+    Soykot       150         2         0     75.00
+
+*/

@@ -16,3 +16,11 @@ int main() {
 
   return 0;
 }
+/* Output:
+
+Number 1:    123
+Number 2:    456
+Number 1: 123
+Number 2: 456
+
+*/

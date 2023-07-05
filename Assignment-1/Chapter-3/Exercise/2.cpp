@@ -34,3 +34,10 @@ int main() {
 
     return 0;
 }
+/* Output:
+
+Enter the size of the vector: 5
+Enter 5 elements for the vector: 1 2 3 4 5
+Vector elements: 1 2 3 4 5
+
+*/
