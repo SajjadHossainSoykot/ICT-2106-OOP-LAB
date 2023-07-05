@@ -32,3 +32,16 @@ int main() {
     displayMatrix(matrix); //Displaying Matrix
     return 0;
 }
+/* Output:
+
+Default rows = 3. Enter the number of columns (n): 3
+Enter the Matrix
+1 2 3
+4 5 6
+7 8 9
+Matrix values:
+1 2 3 
+4 5 6 
+7 8 9
+
+*/

@@ -14,3 +14,9 @@ int main() {
 
     return 0;
 }
+/* Output:
+
+Enter two numbers: 5 10
+Multiplication result: 50
+
+*/

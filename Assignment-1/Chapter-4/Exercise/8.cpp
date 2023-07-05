@@ -37,3 +37,13 @@ int main() {
 
     return 0;
 }
+/* Output:
+
+Enter a double value (m): 3.11
+Enter an int value (n, default is 2): 3
+Result (double): 30.0802
+Enter an int value (m): 3
+Enter an int value (n, default is 2): 3
+Result (int): 27
+
+*/

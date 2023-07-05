@@ -15,3 +15,9 @@ int main() {
 
     return 0;
 }
+/* Output:
+
+Enter three numbers: 2 5 3
+The largest number is: 5
+
+*/

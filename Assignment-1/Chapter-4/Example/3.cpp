@@ -23,3 +23,10 @@ int main() {
 
     return 0;
 }
+/* Output:
+
+Integer: 10
+Double: 3.14159
+String: Hello, World!
+
+*/

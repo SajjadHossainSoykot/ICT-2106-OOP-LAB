@@ -24,3 +24,10 @@ int main() {
 
     return 0;
 }
+/* Output:
+
+Enter a number (m): 3
+Enter the power (n, default is 2): 3
+Result: 27
+
+*/
