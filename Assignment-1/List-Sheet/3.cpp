@@ -12,3 +12,9 @@ int main() {
     cout << "After function call: " << num << endl;
     return 0;
 }
+/* Output:
+
+Before function call: 5
+After function call: 10
+
+*/

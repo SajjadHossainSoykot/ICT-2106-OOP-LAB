@@ -11,3 +11,8 @@ int main() {
     cout << "Multiplication result: " << multiply(num1, num2) << endl;
     return 0;
 }
+/* Output:
+
+Multiplication result: 50
+
+*/

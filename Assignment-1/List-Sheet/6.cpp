@@ -22,3 +22,9 @@ int main()
 
     return 0;
 }
+/* Output:
+
+Integer Addition: 15
+Double Addition: 6.2
+
+*/
